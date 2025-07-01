@@ -23,4 +23,4 @@ git pull
 ```
 - Por ultimo te dirijes hacia tu editor de texto y ejecutas o modificas el archivo/proyecto.
 Si quieres subir codigo a este repo envia una solicitud a danishovala@gmail.com.
-<img src="https://media.tenor.com/x3wF5eTCX3YAAAAm/cowdance-cow.webp" />
+<img src="https://media.tenor.com/x3wF5eTCX3YAAAAm/cowdance-cow.webp" style = "with:75%;"/>
