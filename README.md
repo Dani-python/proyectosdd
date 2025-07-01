@@ -14,3 +14,12 @@ Para clonar este terminal debes introducir en tu terminal el siguiente comando:
 ```
 git clone git@github.com:Dani-python/Dprojects.git
 ```
+## Download Project
+- 1.Para descargar un proyecto primero deberas clonar el terminal.
+- 2.Te dirijiras a la carpeta que se crea por default.
+- 3.Ejecutaras el siguiente comando en tu terminal
+```
+git pull
+```
+- Por ultimo te dirijes hacia tu editor de texto y ejecutas o modificas el archivo/proyecto.
+Si quieres subir codigo a este repo envia una solicitud a danishovala@gmail.com.
