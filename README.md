@@ -9,8 +9,8 @@ Intercambiar versiones de codigos entre todos los miembros de Dcompany y crear n
  |____/ \___\___/|_| |_| |_| .__/ \__,_|_| |_|\__, |
                            |_|                |___/ 
 ```
-## Clone Terminal
-Para clonar este terminal debes introducir en tu terminal el siguiente comando:
+## Clone Repo
+Para clonar este repositorio debes introducir en tu terminal el siguiente comando:
 ```
 git clone git@github.com:Dani-python/Dprojects.git
 ```
