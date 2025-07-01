@@ -11,7 +11,7 @@ Intercambiar versiones de codigos entre todos los miembros de Dcompany y crear n
 ```
 ## Clone Repo
 Para clonar este repositorio debes introducir en tu terminal el siguiente comando:
-```
+```q
 git clone git@github.com:Dani-python/Dprojects.git
 ```
 ## Download Project
@@ -23,3 +23,4 @@ git pull
 ```
 - Por ultimo te dirijes hacia tu editor de texto y ejecutas o modificas el archivo/proyecto.
 Si quieres subir codigo a este repo envia una solicitud a danishovala@gmail.com.
+<img src="https://media.tenor.com/x3wF5eTCX3YAAAAm/cowdance-cow.webp" />
