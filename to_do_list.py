@@ -10,8 +10,13 @@ for i in range(int(th)):
 print(td)
 trco = []
 while len(trco) != len(td):
-    trc = input("tarea que acabas de completar:")
-    if len(trco) != len(td):
+    trc = input("tarea que acabas de completar:")   
+    if trc in td:
+        trco.append(trc)
+        print("tarea completada")
+    else:
+        print("esa tarea no esta en tu lista")
+    if len(trco) == len(td):
         print("ya creo que es hora de dormir hasta mañana.")
         break
     else:
